@@ -1,1 +1,3 @@
-# bash_scripts
+# Bash scripts
+
+Various bash scripts linux
